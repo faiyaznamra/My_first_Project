@@ -24,6 +24,4 @@ int main() {
         max=z;
         
     cout<<min <<" "<<max;
-   
-   
 }
